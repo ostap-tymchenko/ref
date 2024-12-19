@@ -54,8 +54,6 @@
 | $arcsec(f(x))$ | $\frac{f'(x)}{\lvert f(x) \rvert\sqrt{(f(x))^2-1}}$ |
 | $arccsc(f(x))$ | - arcsec derivative eq                              |
 
-![[Pasted image 20241105210355.png]]
-
 #### Exponential & Logarithmic function differentiation
 | Type                                | Normal | Derivative                                |
 | ----------------------------------- | ------ | ----------------------------------------- |
